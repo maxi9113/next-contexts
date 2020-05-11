@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Button from '@material-ui/core/Button';
-import Provider from './provider/index'
-import Tasks from './components/tasks/index';
+import Provider from '../provider/index'
+import Tasks from '../components/tasks/index';
 
 export default function Home() {
   return (
